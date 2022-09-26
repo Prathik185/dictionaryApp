@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dictionary</string>
+    <string name="ha_lo">ha-lo</string>
+    <string name="todo">TODO</string>
+</resources>
